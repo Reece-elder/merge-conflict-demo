@@ -2,7 +2,7 @@ favFood = [
     "yaki udon",
     "baked beans on toast",
     "cheese cake",
-    "eggs"
+    "eggs",
     "pepperoni pizza",
     "fries",
     "pasta",
