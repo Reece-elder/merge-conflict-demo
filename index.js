@@ -1,5 +1,5 @@
 favFood = [
-
+    "Rice Pudding",
     "Food",
     "Food",
     "MoreFood",
@@ -8,12 +8,26 @@ favFood = [
     "cheese cake",
     "cantonese chicken",
     "cheese cake",
+    "banana and rice"
+    "Veg Puff",
     "Ramen",
     "pepperoni pizza",
     "fries",
     "pasta",
     "margherita pizza"
 ]
+
+favDrink = [
+    "PORN STAR MARTINI",
+    "ESPRESSO MARTINI",
+    "FRENCH 75",
+    "SALTED CARAMEL OLD FASHIONED",
+    "LONG ISLAND ICED TEA",
+    "MOJITO",
+    "Bacardi Carta Blanca rum",
+    "AMARETTO SOUR",
+]
+
 
 let parent = document.querySelector("#foodList")
 
