@@ -8,6 +8,7 @@ favFood = [
     "cheese cake",
     "cantonese chicken",
     "cheese cake",
+    "Ramen",
     "pepperoni pizza",
     "fries",
     "pasta",
