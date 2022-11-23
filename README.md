@@ -7,5 +7,3 @@
 3) Push your changes up to the repo 
 4) Make a merge request to main
 5) Fix the merge conflict if any..
-
-wow so many steps
