@@ -6,13 +6,14 @@ favFood = [
     "yaki udon",
     "baked beans on toast",
     "cheese cake",
-    "banana and rice"
+    "banana and rice",
     "Veg Puff",
     "Ramen",
     "pepperoni pizza",
     "fries",
     "pasta",
-    "margherita pizza"
+    "margherita pizza",
+    "eggs"
 ]
 
 favDrink = [
