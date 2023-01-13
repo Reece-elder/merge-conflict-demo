@@ -4,6 +4,13 @@ favFood = [
     "cheese cake",
     "Chicken"
     "Crab",
+    "fried chicken",
+    "chorizo",
+    "sushi",
+    "hojicha tea",
+    "spinach pie",
+    "fish and chips",
+    "century eggs",
     "lasagna",
     "pizza",
     "chips",
